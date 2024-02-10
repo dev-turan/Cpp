@@ -13,7 +13,7 @@ This repository serves as a record of my learning process in C++. It includes a 
 # Directory Structure
 
 Copy code
-/
+/ 
 |-- basics/
 |   |-- hello_world.cpp
 |   |-- variables.cpp
@@ -43,7 +43,6 @@ Copy code
 |   |   |-- ...
 |
 |-- README.md
-|-- .gitignore
 
 # Getting Started
 To explore the code in this repository, follow these steps:
